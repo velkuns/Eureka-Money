@@ -1,0 +1,33 @@
+##
+# Copyright (c) 2010-2016 Romain Cottard
+#
+# For the full copyright and license information, please view the LICENSE
+# file that was distributed with this source code.
+##
+
+all:
+
+  title: Eureka Money
+  titles:
+    full:
+      part1: Eureka
+      part2: Money
+    short:
+      part1: Ek
+      part2: M
+
+  charset: utf-8
+  description: Eureka Money
+  keywords: eureka, money, php, bugdget, bank
+  author: Romain Cottard
+  version: 1.0.0-beta
+  copyright: 2016 - Romain Cottard
+
+dev:
+  title: Eureka Money - DEV
+
+preprod:
+  title: Eureka Money - PREPROD
+
+prod:
+  title: Eureka Money

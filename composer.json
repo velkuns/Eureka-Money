@@ -1,0 +1,41 @@
+{
+  "name": "eureka/money",
+  "description": "Eureka Framework",
+  "type": "project",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Romain Cottard",
+      "role": "Developer"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "Eureka\\Framework\\": "./"
+    }
+  },
+
+  "minimum-stability": "dev",
+
+  "require": {
+    "eureka/component-application": "dev-master",
+    "eureka/component-breadcrumb": "dev-master",
+    "eureka/component-config": "dev-master",
+    "eureka/component-controller": "dev-master",
+    "eureka/component-error": "dev-master",
+    "eureka/component-host": "dev-master",
+    "eureka/component-http": "dev-master",
+    "eureka/component-menu": "dev-master",
+    "eureka/component-response": "dev-master",
+    "eureka/component-routing": "dev-master",
+    "eureka/component-template": "dev-master",
+    "eureka/component-timer": "dev-master",
+    "eureka/component-yaml": "dev-master",
+    "eureka/package-adminlte": "dev-master",
+    "eureka/package-user": "dev-master",
+    "eureka/package-password": "dev-master",
+    "eureka/package-money": "dev-master"
+  }
+}
