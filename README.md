@@ -66,5 +66,5 @@ See also the list of [contributors](https://github.com/velkuns/eureka-money/cont
 
 ### License
 
-Eureka\App\Console\Password is licensed under the MIT License - see the `LICENSE` file for details
+Eureka\Money is licensed under the MIT License - see the `LICENSE` file for details
 
