@@ -70,7 +70,8 @@ require_once EKA_CONFIG . '/helper.php';
 //~ Other configs files
 if (PHP_SAPI === 'cli') {
     //~ Require package only for cli
-    //require_once EKA_PACKAGE . '/package-examplecli/config/config.php';
+    require_once EKA_PACKAGE . '/package-user/config/config.php';
+    require_once EKA_PACKAGE . '/package-money/config/config.php';
 } else {
     //~ Require package only for web
     require_once EKA_PACKAGE . '/package-adminlte/config/config.php';
