@@ -16,4 +16,4 @@ prod:
 all:
   php:
     theme: AdminLTE
-    layout: EKA_PACKAGE/package-adminlte/Layout/
+    layout: EKA_PACKAGE/package-adminlte/src/AdminLTE/Layout/
