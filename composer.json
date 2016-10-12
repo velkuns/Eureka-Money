@@ -1,6 +1,6 @@
 {
   "name": "eureka/money",
-  "description": "Eureka Framework",
+  "description": "budget Application",
   "type": "project",
   "license": "MIT",
 
@@ -20,21 +20,17 @@
   "minimum-stability": "stable",
 
   "require": {
-    "eureka/component-acl": "^1.0.1",
     "eureka/component-application": "^1.0.2",
     "eureka/component-breadcrumb": "^1.0.0",
-    "eureka/component-cache": "^1.0.1",
-    "eureka/component-config": "^1.0.0",
+    "eureka/component-cache": "^1.0.2",
+    "eureka/component-config": "^1.0.1",
     "eureka/component-controller": "^1.0.0",
     "eureka/component-currency": "^0.1.0",
     "eureka/component-database": "^1.0.1",
-    "eureka/component-debug": "^1.0.0",
     "eureka/component-dependency": "^1.0.0",
     "eureka/component-error": "^1.0.0",
     "eureka/component-host": "^1.0.0",
     "eureka/component-http": "^1.0.0",
-    "eureka/component-loader": "^1.0.0",
-    "eureka/component-mcrypt": "^1.0.0",
     "eureka/component-menu": "^1.0.0",
     "eureka/component-notification": "^1.0.0",
     "eureka/component-orm": "^1.0.1",
@@ -43,13 +39,10 @@
     "eureka/component-string": "^1.0.0",
     "eureka/component-template": "^1.0.0",
     "eureka/component-timer": "^1.0.0",
-    "eureka/component-token": "^1.0.0",
     "eureka/component-yaml": "^1.0.0",
     "eureka/package-adminlte": "^1.0.0",
-    "eureka/package-example": "^1.0.0",
-    "eureka/package-examplecli": "^1.0.0",
-    "eureka/package-money": "^1.0.0",
+    "eureka/package-money": "^1.0.1",
     "eureka/package-password": "^1.0.0",
-    "eureka/package-user": "^1.0.0"
+    "eureka/package-user": "^1.0.1"
   }
 }
